@@ -50,8 +50,6 @@ The next step I did was creating a virtual network and subnet for the virtual ma
 
 <p>
 <img src="https://i.imgur.com/R3cztcO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/7JuFful.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/UtjTLIv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I then created a virtual machine for the domain controller and titled it "dc-1". I set its operating system to Windows Server 2022 with the username "chlabuser". I also set it's size to 2 vcpus with a 16 GiB memory to be certain the server can handle all that I will be doing going forward.
